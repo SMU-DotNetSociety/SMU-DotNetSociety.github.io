@@ -3,8 +3,8 @@ title: DotNet
 subtitle: Society
 email: dotnetsociety@sa.smu.edu.sg
 description: 
-baseurl: "/home" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+# baseurl: "/home" # the subpath of your site, e.g. /blog
+#  url: # the base hostname & protocol for your site
 author: Tech@DOTS
 street_address: 81 Victoria St Singapore 188065
 city: 
