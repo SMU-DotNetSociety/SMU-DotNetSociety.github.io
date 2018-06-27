@@ -1,36 +1,60 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+title: DotNet 
+subtitle: Society
+email: dotnetsociety@sa.smu.edu.sg
+description: 
+baseurl: "/home" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+author: Tech@DOTS
+street_address: 81 Victoria St Singapore 188065
+city: 
+state: 
+zip_code: 
+country: 
+phone: '#'
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 0
 
 # social settings
 500px_url:
-facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+facebook_url: https://www.facebook.com/SMUDotNetSociety/
+github_url: https://github.com/SMU-DotNetSociety
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # build settings
-markdown: kramdown
+# markdown: kramdown
 
 sass:
   style: compressed
+
+# Google Analytics (you may want to changes these with yours or even delete :)
+ga_domain: m3xm.github.io
+ga_tracking_id: UA-47727049-1
+
+# Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
+markdown: kramdown
+permalink: pretty
+highlighter: rouge
+
+paginate: 5
+paginate_path: "/blog/page:num"
+
+# SCSS
+
+sass:
+  style: :compressed
+
+# for some reason, jekyll tries to build posts inside the jekyll gem directory =.=
+# https://github.com/jekyll/jekyll/issues/5267
+exclude: [vendor]
+
+# plugins
+plugins: [jekyll-paginate]

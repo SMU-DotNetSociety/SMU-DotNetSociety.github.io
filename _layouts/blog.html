@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+	 {% include header.html %} 
+	<h1 class="align-center">
+		<a href="{{ site.baseurl | split:'/' | join:'/' | append:'/'  }}" title="Back to Homepage">{{ site.name }}</a>
+	</h1>
+	{{ content }} {% include footer.html %}
+</body>
+
+</html>

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>404</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            background-color: #f5f6f9;
+            font-family: 'Open Sans', sans-serif;
+        }
+        .flexbox-centering {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .etched-text {
+            text-shadow: 0 2px white;
+            /* font-size: 1.5rem; */
+            font-weight: bold;
+            color: #b8bec5;
+        }
+
+        h1 {
+            font-size: 5 rem;
+        }
+
+        @keyframes bouncing-loader {
+            from {
+                opacity: 1;
+                transform: translateY(0);
+            }
+            to {
+                opacity: 0.1;
+                transform: translateY(-1rem);
+            }
+            }
+            .bouncing-loader {
+            display: flex;
+            justify-content: center;
+            }
+            .bouncing-loader > div {
+            width: 1rem;
+            height: 1rem;
+            margin: 3rem 0.2rem;
+            background: #8385aa;
+            border-radius: 50%;
+            animation: bouncing-loader 0.6s infinite alternate;
+            }
+            .bouncing-loader > div:nth-child(2) {
+            animation-delay: 0.2s;
+            }
+            .bouncing-loader > div:nth-child(3) {
+            animation-delay: 0.4s;
+            }
+    </style>
+</head>
+<body>
+    <div class="flexbox-centering">
+        <div class="child">
+            <h1 class="etched-text">404</h1>
+            <p class="etched-text">Uh Oh.. </p>
+            <div class="bouncing-loader">
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+            <p>You could wait forever.. but I'm sure you've other things to do.</p>
+            <a href="/home/">Back to main page</a>
+        </div>
+    </div>
+    
+</body>
+</html>

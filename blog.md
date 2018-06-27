@@ -1,7 +1,7 @@
 ---
-layout: allposts
-title: All posts
-landing-title: 'All posts'
+layout: blog
+title: Blog
+landing-title: 'Blog'
 nav-menu: true
 description: null
 image: null

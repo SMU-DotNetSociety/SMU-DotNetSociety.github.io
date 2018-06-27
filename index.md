@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Home of the folks @ SMU DOTS'
 description: null
 image: null
 author: null
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+SMU DotNet Society is a student club that aims to help students go beyond school, learn about and explore interesting topics in technology. We comprise of students, technology enthusiasts and fellow Microsoft Student Partners (MSPs). To share our passion for technology, our members run fun workshops to bring Microsoft's latest technologies such as chatbots, machine learning and cloud computing with Azure to you to get you ready for the future of technology!
