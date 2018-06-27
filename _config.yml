@@ -36,8 +36,8 @@ sass:
   style: compressed
 
 # Google Analytics (you may want to changes these with yours or even delete :)
-ga_domain: m3xm.github.io
-ga_tracking_id: UA-47727049-1
+ga_domain: 
+ga_tracking_id: 
 
 # Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
 markdown: kramdown
@@ -48,7 +48,6 @@ paginate: 5
 paginate_path: "/blog/page:num"
 
 # SCSS
-
 sass:
   style: :compressed
 
@@ -57,4 +56,7 @@ sass:
 exclude: [vendor]
 
 # plugins
-plugins: [jekyll-paginate]
+plugins: [
+  jekyll-paginate, 
+  jekyll-sitemap
+]
