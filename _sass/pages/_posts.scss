@@ -1,5 +1,13 @@
+body {
+  background-color: $bg-color
+}
+
 body .single-wrap {
   color: $text-color;
+}
+
+body.single-wrap h1,h2,h3,h4,h5 {
+  color: $text-color;  
 }
 
 .single-wrap {
