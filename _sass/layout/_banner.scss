@@ -91,12 +91,16 @@
 					letter-spacing: _font(letter-spacing-alt);
 					text-transform: uppercase;
 				}
+
+				dl dd {
+					margin-left: 0;
+				}
 			}
 		}
 
 		&.major {
 			height: 75vh;
-			min-height: 30em;
+			min-height: 20em;
 			max-height: 50em;
 
 			&.alt {
