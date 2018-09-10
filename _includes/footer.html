@@ -1,6 +1,6 @@
 <!-- Contact -->
 <section id="contact">
-	<div class="inner">
+	<!-- <div class="inner">
 		<section>
 			<form action="https://formspree.io/{{ site.email }}" method="POST">
 				<div class="field half first">
@@ -60,7 +60,7 @@
 				</div>
 			</section>
 		</section>
-	</div>
+	</div> -->
 </section>
 
 <!-- Footer -->
@@ -70,9 +70,13 @@
 				{% if site.twitter_url %}
 				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 				{% endif %}
+				{% if site.email %}
+				<li><a href="mailto:{{ site.email }}" class="icon alt fa-envelope" target=""><span class="label">Email</span></a></li>
+				{% endif %}
 				{% if site.googleplus_url %}
 				<li><a href="{{ site.googleplus_url }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
 				{% endif %}
+				<!-- telegram-plane -->
 				{% if site.facebook_url %}
 				<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
 				{% endif %}
@@ -100,6 +104,7 @@
 			</ul>
 			<ul class="copyright">
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
+				<li><b>Credits</b></li>
 				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
 				<li>Blog: <a href="https://github.com/mx3m" target="_blank">Mathieu Mayer-Mazzoli</a></li>
 				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
