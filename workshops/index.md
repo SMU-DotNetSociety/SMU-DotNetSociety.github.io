@@ -1,17 +1,18 @@
 ---
 layout: workshops
 title: Workshop
-nav-menu: false
+nav-menu: true
 ---
 
 <header class="major">
-    <h1>Workshop</h1>
+    <h1>Upcoming Workshops</h1>
 </header>
 
 <div class="row">
     <div class="6u 12u$(small)">
 		<ul>
 			<li>Laravel (1st September)</li>
+			<li><a href="/workshops/nodeschool">NodeSchool</a></li>
 			<li>Intermediate Python (Week 8)</li>
 			<li>CAT workshop (Week 8)</li>
 		</ul>
