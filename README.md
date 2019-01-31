@@ -1,6 +1,6 @@
 # Dot Net Society - Jekyll Powered Website
 
-Overall site is based on "Forty" theme by [HTML5 UP](https://html5up.net/) and Hikari an open-source [Jekyll](http://jekyllrb.com) theme. 
+Overall site is based on "Forty" theme by [HTML5 UP](https://html5up.net/) and Hikari an open-source [Jekyll](http://jekyllrb.com) theme. Combined both themes to make use of the wonderful Hikari blog design and the impressive look and feel of Forty.
 
 # How to use
 For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details, 
