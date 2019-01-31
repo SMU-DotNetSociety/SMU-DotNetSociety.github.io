@@ -1,7 +1,7 @@
 ---
 title: Club Manifesto
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: ''
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -10,18 +10,21 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Introduction</h2>
-		</header>
-        <p>Hackers can be broadly defined as adherents in the technology subculture of the world today. SMU .Hack is an interest group comprising technology enthusiasts committed to spreading the passion for technology through a proven peer-to-peer methodology that includes fortnightly sharing sessions, workshops and hackathons. SMU .Hack aims to be the quintessential technology-focused group in SMU and beyond - one that provides its members an enjoyable, rewarding and invigorating experience.</p>
-	</div>
-</section>
-
-<!-- Two -->
-<section id="two" class="spotlights">
-	<section>
+<section id="one" class="spotlights">
+    <section>
+        <a href="#" class="image">
+            <img src="/assets/images/logo500x500.png" alt="" data-position="center center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h2>Introduction</h2>
+                </header>
+                <p>Hackers can be broadly defined as adherents in the technology subculture of the world today. SMU .Hack is an interest group comprising technology enthusiasts committed to spreading the passion for technology through a proven peer-to-peer methodology that includes fortnightly sharing sessions, workshops and hackathons. SMU .Hack aims to be the quintessential technology-focused group in SMU and beyond - one that provides its members an enjoyable, rewarding and invigorating experience.</p>
+            </div>
+        </div>
+    </section> 
+    <section>
         <a href="#" class="image">
             <img src="/assets/images/undraw_target_kriv.png" alt="" data-position="center center" />
         </a>
@@ -37,7 +40,12 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<!-- <section>
+</section>
+
+<!-- Two -->
+<!-- <section id="two" class="spotlights">
+	
+	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
 		</a>
@@ -68,8 +76,8 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
-	</section> -->
-</section>
+	</section> 
+</section>-->
 
 <!-- Three -->
 <!-- <section id="three">
