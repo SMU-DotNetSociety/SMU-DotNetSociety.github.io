@@ -1,13 +1,12 @@
 ---
-layout: redirect
+layout: blog
 title: Blog
 nav-menu: true
-redirect_to: '/'
 ---
 
 <div id="home">
-  <ul class="posts">
-    {% for post in paginator.posts %} {% if post.categories contains 'blog' %}
+  <ul class="posts"> 
+    {% for post in paginator.posts %} {% if post.category contains 'blog' %}
     <li itemscope itemtype="http://schema.org/BlogPosting">
       <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
         <div class="p-wrap">
