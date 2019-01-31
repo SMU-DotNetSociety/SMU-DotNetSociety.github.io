@@ -1,6 +1,6 @@
 ---
 layout: workshops
-title: Workshop
+title: Workshops
 nav-menu: true
 ---
 
@@ -11,10 +11,9 @@ nav-menu: true
 <div class="row">
     <div class="6u 12u$(small)">
 		<ul>
-			<li>Laravel (1st September)</li>
-			<li><a href="/workshops/nodeschool">NodeSchool</a></li>
-			<li>Intermediate Python (Week 8)</li>
-			<li>CAT workshop (Week 8)</li>
+			<li>Week 6: Single Page Apps With CI</li>
+			<li>Week 8: Kotlin</li>
+			<li>Week 8: Get Rekt Challenge! <a href="#">More Info Coming Soon</a></li>
 		</ul>
 	</div>
 </div>
@@ -28,9 +27,10 @@ nav-menu: true
 <div class="row">
     <div class="6u 12u$(small)">
 		<ul>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis dolore viverra.</li>
+			<li>Laravel (1st September)</li>
+			<li><a href="/workshops/nodeschool">NodeSchool</a></li>
+			<li>Intermediate Python (Week 8)</li>
+			<li>CAT workshop (Week 8)</li>
 		</ul>
 	</div>
 </div>

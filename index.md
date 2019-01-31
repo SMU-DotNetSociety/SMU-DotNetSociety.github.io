@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: 'SMU DotNet Society'
-description: 'A technology evangelist student club'
+landing-title: 'SMU .Hack'
+description: 'The quintessential technology-focused group in SMU and beyond'
 image: null
 author: null
 # redirect_to: '/blog'
 ---
 
-SMU DotNet Society is a student club that aims to help students go beyond school, learn about and explore interesting topics in technology. We comprise of students, technology enthusiasts and fellow Microsoft Student Partners (MSPs). To share our passion for technology, our members run fun workshops to bring Microsoft's latest technologies such as chatbots, machine learning and cloud computing with Azure to you to get you ready for the future of technology!
+Hackers can be broadly defined as adherents in the technology subculture of the world today. SMU .Hack is an interest group comprising technology enthusiasts committed to spreading the passion for technology through a proven peer-to-peer methodology that includes fortnightly sharing sessions, workshops and hackathons. SMU .Hack aims to be the quintessential technology-focused group in SMU and beyond - one that provides its members an enjoyable, rewarding and invigorating experience.
