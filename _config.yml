@@ -1,17 +1,18 @@
 # site settings
-title: DotNet 
-subtitle: Society
+title: SMU 
+subtitle: .Hack
 email: dotnetsociety@sa.smu.edu.sg
-description: Technology evangelist club
+description: The quintessential technology-focused group in SMU and beyond
 # baseurl: "/home" # the subpath of your site, e.g. /blog
 #  url: # the base hostname & protocol for your site
-author: Tech@DOTS
+author: TechTeam@.Hack
 street_address: 81 Victoria St Singapore 188065
 city: 
 state: 
 zip_code: 
 country: 
 phone: '#'
+future: true
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
