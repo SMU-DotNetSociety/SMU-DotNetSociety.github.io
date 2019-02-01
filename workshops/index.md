@@ -11,6 +11,7 @@ nav-menu: true
 <div class="row">
     <div class="6u 12u$(small)">
 		<ul>
+			<li>Week 5: <a href="/workshops/golang"> GoLang Workshop </a></li>
 			<li>Week 6: Single Page Apps With CI</li>
 			<li>Week 8: Kotlin</li>
 			<li>Week 8: Get Rekt Challenge! <a href="#">More Info Coming Soon</a></li>
