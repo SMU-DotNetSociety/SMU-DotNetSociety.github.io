@@ -7,7 +7,7 @@ published: true
 image: ../assets/images/DOTNET_YEAR_IN_REVIEW_2018_SEM_1_Final.png
 ---
 
-Take a look at what happened with *.Hack* with our Semester in Review, AY2018/2019, Term 1
+Take a look at what happened with *SMU .Hack* with our Semester in Review, AY2018/2019, Term 1
 
 <img src="{{ site.baseurl }}/assets/images/DOTNET_YEAR_IN_REVIEW_2018_SEM_1_Final.png">
 
